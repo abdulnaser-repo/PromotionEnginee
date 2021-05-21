@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PromotionRuleEnginee/1.0.0": {
+        "dependencies": {
+          "PromotionEngineBL": "1.0.0"
+        },
+        "runtime": {
+          "PromotionRuleEnginee.dll": {}
+        }
+      },
+      "PromotionEngineBL/1.0.0": {
+        "runtime": {
+          "PromotionEngineBL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PromotionRuleEnginee/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PromotionEngineBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

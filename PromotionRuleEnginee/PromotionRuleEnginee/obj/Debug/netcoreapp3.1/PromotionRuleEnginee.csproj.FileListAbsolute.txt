@@ -1,0 +1,16 @@
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\bin\Debug\netcoreapp3.1\PromotionRuleEnginee.exe
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\bin\Debug\netcoreapp3.1\PromotionRuleEnginee.deps.json
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\bin\Debug\netcoreapp3.1\PromotionRuleEnginee.runtimeconfig.json
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\bin\Debug\netcoreapp3.1\PromotionRuleEnginee.runtimeconfig.dev.json
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\bin\Debug\netcoreapp3.1\PromotionRuleEnginee.dll
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\bin\Debug\netcoreapp3.1\PromotionRuleEnginee.pdb
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\bin\Debug\netcoreapp3.1\PromotionEngineBL.dll
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\bin\Debug\netcoreapp3.1\PromotionEngineBL.pdb
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\obj\Debug\netcoreapp3.1\PromotionRuleEnginee.csprojAssemblyReference.cache
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\obj\Debug\netcoreapp3.1\PromotionRuleEnginee.AssemblyInfoInputs.cache
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\obj\Debug\netcoreapp3.1\PromotionRuleEnginee.AssemblyInfo.cs
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\obj\Debug\netcoreapp3.1\PromotionRuleEnginee.csproj.CoreCompileInputs.cache
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\obj\Debug\netcoreapp3.1\PromotionRuleEnginee.csproj.CopyComplete
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\obj\Debug\netcoreapp3.1\PromotionRuleEnginee.dll
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\obj\Debug\netcoreapp3.1\PromotionRuleEnginee.pdb
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionRuleEnginee\obj\Debug\netcoreapp3.1\PromotionRuleEnginee.genruntimeconfig.cache

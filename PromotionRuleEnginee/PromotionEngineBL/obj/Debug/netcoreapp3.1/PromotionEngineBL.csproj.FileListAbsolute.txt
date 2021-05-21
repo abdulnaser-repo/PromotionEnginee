@@ -1,0 +1,9 @@
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionEngineBL\bin\Debug\netcoreapp3.1\PromotionEngineBL.deps.json
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionEngineBL\bin\Debug\netcoreapp3.1\PromotionEngineBL.dll
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionEngineBL\bin\Debug\netcoreapp3.1\PromotionEngineBL.pdb
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionEngineBL\obj\Debug\netcoreapp3.1\PromotionEngineBL.csprojAssemblyReference.cache
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionEngineBL\obj\Debug\netcoreapp3.1\PromotionEngineBL.AssemblyInfoInputs.cache
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionEngineBL\obj\Debug\netcoreapp3.1\PromotionEngineBL.AssemblyInfo.cs
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionEngineBL\obj\Debug\netcoreapp3.1\PromotionEngineBL.csproj.CoreCompileInputs.cache
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionEngineBL\obj\Debug\netcoreapp3.1\PromotionEngineBL.dll
+D:\Resume\Maersk\PromotionRuleEnginee\PromotionRuleEnginee\PromotionEngineBL\obj\Debug\netcoreapp3.1\PromotionEngineBL.pdb
