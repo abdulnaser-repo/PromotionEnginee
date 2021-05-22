@@ -9,16 +9,16 @@ namespace PromotionRuleEnginee
         static void Main(string[] args)
         {
             Console.WriteLine("Set SKU unit price");
-            List<UnitPrice> lstUnitPrice = new List<UnitPrice>();
-            lstUnitPrice.Add(new UnitPrice { SKUId = 'A', price = 50 });
-            lstUnitPrice.Add(new UnitPrice { SKUId = 'B', price = 30 });
-            lstUnitPrice.Add(new UnitPrice { SKUId = 'C', price = 20 });
-            lstUnitPrice.Add(new UnitPrice { SKUId = 'D', price = 15 });
+            Dictionary<char, int> orders = new Dictionary<char, int>();
+            orders.Add('A', 1);
+            orders.Add('B', 1);
+            orders.Add('C', 1);
 
-            List<OrderDetails> lstOrder = new List<OrderDetails>();
-            lstOrder.Add(new OrderDetails { SKUId = 'B', quantity = 1 });
-            lstOrder.Add(new OrderDetails { SKUId = 'C', quantity = 1 });
-            lstOrder.Add(new OrderDetails { SKUId = 'A', quantity = 1 });
+            Console.WriteLine("Calculate Promotion price");
+            PromotionCalculator _calculator = new PromotionCalculator();       
+            
+            decimal totalPrice = _calculator.CalculatePromotionPrice(orders);
+            Console.WriteLine(string.Format("The total price is: {0}", totalPrice));
         }
     }
 }
